@@ -1,4 +1,5 @@
 # 🚀 Hybrid Test Automation Framework (UI + API)
+![Playwright Tests CI](https://github.com/GianniNelito/qa-automation-playwright-ts/actions/workflows/playwright.yml/badge.svg)
 
 Framework integral de pruebas automatizadas construido con **Playwright** y **TypeScript**, implementando patrones de diseño escalables e integración continua.
 
